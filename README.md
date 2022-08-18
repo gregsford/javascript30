@@ -21,6 +21,7 @@ I still haven't been able to try to figure out why it doesn't make a sound on th
 <hr>
 
 Day 2: CSS + JS CLOCK (completed: 8/17/2022)
+
 This one I found to be a little bit easier.
 In the oast few months I have coded along with 2 clock/time tutorials with Traversy Media (link to project here => https://www.youtube.com/watch?v=fSTQzlprGLI) and Web Dev Simplified (link to project here => https://www.youtube.com/watch?v=Ki0XXrlKlHY).
 So I had a basic idea of working with setInterval to 1000 and math operations to get the hands to rotate for the different times.
