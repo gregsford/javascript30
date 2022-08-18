@@ -24,7 +24,7 @@ Day 2: CSS + JS CLOCK (completed: 8/17/2022)
 This one I found to be a little bit easier.
 In the oast few months I have coded along with 2 clock/time tutorials with Traversy Media (link to project here => https://www.youtube.com/watch?v=fSTQzlprGLI) and Web Dev Simplified (link to project here => https://www.youtube.com/watch?v=Ki0XXrlKlHY).
 So I had a basic idea of working with setInterval to 1000 and math operations to get the hands to rotate for the different times.
-I did have a few struggles with getting the hands to connect to rotate, but it was mostly syntax errors(ie. leaving the "deg" at the end off of `rotate(${secondsDegrees}deg), etc.`
+I did have a few struggles with getting the hands to connect to rotate, but it was mostly syntax errors(ie. leaving the "deg" at the end off of `rotate(${secondsDegrees}deg), etc.`)
 This was a fun project and I plan to do some more projects on my own with time and clocks in the future. 
 I also made the second hand a dark shade on red, just for a better aesthetic feel. 
 
