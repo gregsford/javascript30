@@ -33,6 +33,8 @@ I also made the second hand a dark shade on red, just for a better aesthetic fee
 
 Day 3: CSS VARIABLES (completed: 8/19/2022)
 
+I liked doing this one because of being able to see how to connect the various areas and change them individually and as a group (the background color and the 'JS' color matching).  I had attempted to try to do this one ahead of watching the code that Wes used, but as soon as he started adding the variables into the style tags, I decided to follow and code along in case I missed something.  I have seen and worked with CSS variables before, but mainly using colors.  One issue that I did come across, but nothing major to break the code, was the mousemove event.  Looking at the console after applying it with the change event, it was not giving me any information.  However, being that the code did work, I wasn't too hung up on it.  I will go back and take a look and see if possibly my syntax was wrong or if there was something that I should've done instead. 
+
 <hr>
 
 Day 4: ARRAY CARDIO DAY 1 (completed: N/A)
