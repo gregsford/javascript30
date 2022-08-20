@@ -11,7 +11,7 @@ It is far more important to understand the code itself than to hastily run throu
 
 <hr>
 
-Day 1: JAVASCRIPT DRUM KIT (completed: 8/16/2022)
+Day 1: JAVASCRIPT DRUM KIT (completed: )
 
 I do not have a file for the Drum Kit.
 While working on the code I was unable to get the .play() method to work on Google Chrome, Microsoft Edge, FireFox, or FireFox Developer Edition.
@@ -31,7 +31,7 @@ I also made the second hand a dark shade on red, just for a better aesthetic fee
 
 <hr>
 
-Day 3: CSS VARIABLES (completed: N/A)
+Day 3: CSS VARIABLES (completed: 8/19/2022)
 
 <hr>
 
