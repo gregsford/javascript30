@@ -37,7 +37,9 @@ I liked doing this one because of being able to see how to connect the various a
 
 <hr>
 
-Day 4: ARRAY CARDIO DAY 1 (completed: N/A)
+Day 4: ARRAY CARDIO DAY 1 (completed: 8/20/2022)
+
+I'm glad that this one showed more of how to use map, filter, sort.  I have gone through those many times but I still get confused by them simply because I do not use them often enough. I do need a lot more practice with these methods, but after completing this I think I'm going to try to do this "cardio" exercise again. Being that I need the practice not just with the coding but with the thought process, this should be good to try. On exercise 5, I did manage to come up with the response alone using a ternary operator based on the answer to exercise 3.  The only issue I had with the return was the -1 and 1.  I initially got them mixed up, so I need to practice that more to get a better understanding of how to correctly use them.  Overall I felt that this was a very helpful video and will be revisiting this one a bit to get better.
 
 <hr>
 
