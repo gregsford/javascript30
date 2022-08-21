@@ -43,7 +43,9 @@ I'm glad that this one showed more of how to use map, filter, sort.  I have gone
 
 <hr>
 
-Day 5: FLEX PANEL GALLERY (completed: N/A)
+Day 5: FLEX PANEL GALLERY (completed: 8/21/2022)
+
+Flexbox. I felt that I was learning more about flexbox in this video than I was JavaScript. But that's awesome as well! Flexbox is certainly tricky to get. I still have a lot of problems getting it correct and understanding the different values and how they work.  As far as the JS goes, there was definitely a lot of "toggle" going on.  I have trouble sometimes understanding how toggles work, but I feel like I'm starting to get a better idea. Another JS issue I have is understanding how and when to use events in a function (ie. function(e)).  I'll come back to this video some more for reference as Wes was saying that all the browsers except Safari noted as only flex and not flex-grow.  I'll go back for some more clarification for sure. 
 
 <hr>
 
