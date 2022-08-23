@@ -53,7 +53,9 @@ Flexbox. I felt that I was learning more about flexbox in this video than I was 
 
 <hr>
 
-Day 6: TYPE AHEAD (completed: N/A)
+Day 6: TYPE AHEAD (completed: 8/22/2022)
+
+This one was a bit more challenging for me.  As soon as Wes started getting into the code, I was already feeling thrown off. Also it could be that I'm a bit tired too... It's been a long day.  Using fetch and .then methods and using APIs is definitely something that I do need more practice with.  Every API that I have dealt with so far has been some sort of code along project and not anything of my own.  So I do need to practice there and find some good APIs to work with. The RegExp is something that is entirely new to me.  I haven't seen that before so I need to look more into that.  Wes might've explained it but I do need to look into it. I had a hard time understanding the use of it. Overall this one was cool. I surely have to come back to this one and practice more on this.  Also bonus points for my home city and my current city both making the list. 👍
 
 <hr>
 
