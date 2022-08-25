@@ -59,7 +59,9 @@ This one was a bit more challenging for me.  As soon as Wes started getting into
 
 <hr>
 
-Day 7: ARRAY CARDIO DAY 2 (completed: N/A)
+Day 7: ARRAY CARDIO DAY 2 (completed: 8/24/2022)
+
+So this exercise felt a lot more comfortable than the previous once.  The only problem that I stumbled upon a bit was the findIndex() and then deleting one of them.  I was trying to nest functions to try to use the delete() method, but quickly found myself confused and needing to backtrack.  Even though using the splice() method is easier to type out and looks nicer, I kind of preferred the slice() method instead. It reminded me of when I do editing in music or videos where you need to split something and either add something in between or remove a section that you don't need (just like in this case with the ID). After the first exercise I did try to solve them myself before watching Wes, and 1 of them I got write and wrote out the ternary operation for it, but went the extra mile right true and false instead of just letting it equate to true (const comment = comments.find(comment => comment.id === 823423... initially I ended it with the ? true : false which it didn't need).  I like these array cardio exercises.  They're definitely going to be resourceful for me in the future when they'll need to come in handy. I don't know if there are any more of these in the course but we will find out.  
 
 <hr>
 
