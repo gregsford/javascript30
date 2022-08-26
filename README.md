@@ -65,7 +65,9 @@ So this exercise felt a lot more comfortable than the previous once.  The only p
 
 <hr>
 
-Day 8: FUN WITH HTML5 CANVAS (completed: N/A)
+Day 8: FUN WITH HTML5 CANVAS (completed: 8/25/2022)
+
+This was a really fun exercise.  I never really thought about drawing, clicking and dragging on a page for art as a JavaScript exercise. There was definitely a TON of code for this one, but it did make sense for me as Wes explained it. I learned a lot of new things with this lesson as well.  This was my introduction to getContext.  I had seen it before but never seen context used in any code that I've worked on. So it was definitely cool to check that out. A lot to pick and go through in this video, but thoroughly enjoyed it.  I'm going to load up this one up to Netlify as well so my girlfriends kids can draw stuff on the computer, they'll love it.  8 videos in... Let's go!
 
 <hr>
 
