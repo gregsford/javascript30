@@ -1,4 +1,4 @@
-# javascript30 
+# JavaScript30 
 
 This is my work on the JavaScript30 course by Wes Bos.
 My method of learning and working on these courses is to code along with Wes, but pasuing the videos and trying to figure out and write the JS code myself to see whether or not I am able to get it to work properly before watching the tutorial.
@@ -71,7 +71,11 @@ This was a really fun exercise.  I never really thought about drawing, clicking 
 
 <hr>
 
-Day 9: DEV TOOLS DOMINATION (completed: N/A)
+Day 9: DEV TOOLS DOMINATION (completed: 8/26/2022)
+
+console.log('We are all up in the %s console today!', 'fucking');
+console.log('%cHELL YEAH!', 'font-size:1000000px;');
+A bit of overkill I know.  But I do enjoy working in the console.  Having a place to work on figuring out solutions and finding out information on what you are looking for is super important in coding.  I feel like I don't pay as much attention to the Dev Tools as I should.  There's definitely a lot of information there and some of these different console types were new to me.  I was aware of log obviously, but was unaware of most of them.  These will come in handy when I start working more in the console on projects I'm sure. This video was definitely informative for sure.
 
 <hr>
 
