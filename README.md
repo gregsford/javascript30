@@ -73,8 +73,8 @@ This was a really fun exercise.  I never really thought about drawing, clicking 
 
 Day 9: DEV TOOLS DOMINATION (completed: 8/26/2022)
 
-console.log('We are all up in the %s console today!', 'fucking');
-console.log('%cHELL YEAH!', 'font-size:1000000px;');
+<!-- console.log('We are all up in the %s console today!', 'fucking'); -->
+<!-- console.log('%cHELL YEAH!', 'font-size:1000000px;'); -->
 A bit of overkill I know.  But I do enjoy working in the console.  Having a place to work on figuring out solutions and finding out information on what you are looking for is super important in coding.  I feel like I don't pay as much attention to the Dev Tools as I should.  There's definitely a lot of information there and some of these different console types were new to me.  I was aware of log obviously, but was unaware of most of them.  These will come in handy when I start working more in the console on projects I'm sure. This video was definitely informative for sure.
 
 <hr>
