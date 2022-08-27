@@ -81,7 +81,9 @@ A bit of overkill I know.  But I do enjoy working in the console.  Having a plac
 
 <hr>
 
-Day 10: HOLD SHIFT AND CHECKBOXES (completed: N/A)
+Day 10: HOLD SHIFT AND CHECKBOXES (completed: 8/27/2022)
+
+In this video Wes suggests at the beginning for the viewer to try and do the code themselves before watching the video.  I tried that and I put a querySelectorAll and a forEach loop on the .item, not .checkbox.  Soon after that I felt lost for a bit while watching him code.  It might just be that I'm tired (currently operating on a few hours of sleep the last few days) but it wasn't clicking for me at first.  By the end of the video I was understanding what the code was doing for it to work, but I was having trouble grasping it at first.  Once I manage to get in some rest I will come back to this one and try to code it myself a few times to get a better understanding of it.  It is definitely something commonly used so it'd be very useful to know how the code process works to make something like this.
 
 <hr>
 
