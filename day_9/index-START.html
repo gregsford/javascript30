@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+<body>
+
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Regular
+    console.log('Hey bro');
+
+    // Interpolated
+    console.log('i am a %s head!', 'shit')
+
+    // Styled
+    console.log('%c Styled as fuck', 'font-size:20px; background:#a55BAD;');
+
+    // warning!
+    console.warn('Oh Shit');
+
+    // Error :|
+    console.error('Oh Fuck');
+
+    // Info
+    console.info('you aint shit homie');
+
+    // Testing
+    console.assert(1 === 1, 'Wrong.. WRONG.');
+    console.assert(1 === 2, 'Wrong.. WRONG.');
+
+    const p = document.querySelector('p');
+    console.assert(p.classList.contains('ouch'), 'Oh shit youre still wrong.')
+
+
+    // clearing
+    console.clear();
+
+    // Viewing DOM Elements
+    console.log(p);
+    console.dir(p);
+
+    // Grouping together
+    dogs.forEach(dog => {
+      // console.group(`${dog.name}`);
+      console.groupCollapsed(`${dog.name}`);
+      console.log(`This is ${dog.name}`);
+      console.log(`${dog.name} is ${dog.age}.`);
+      console.log(`${dog.name} is ${dog.age * 7} dog years.`);
+      console.groupEnd(`${dog.name}`);
+    })
+
+    // counting
+    console.count('Joe')
+    console.count('Joe')
+    console.count('Mama')
+    console.count('Joe')
+    console.count('Joe')
+    console.count('Mama')
+    console.count('Mama')
+    console.count('Joe')
+    console.count('Mama')
+    console.count('Mama')
+    console.count('Joe')
+    console.count('Mama')
+    console.count('Mama')
+    console.count('Mama')
+    console.count('Joe')
+    console.count('Mama')
+    console.count('Mama')
+    console.count('Joe')
+    console.count('Joe')
+    console.count('Mama')
+    console.count('Joe')
+    console.count('Joe')
+    console.count('Mama')
+    console.count('Joe')
+    console.count('Mama')
+    console.count('Joe')
+    console.count('Joe')
+    console.count('Mama')
+    console.count('Joe')
+
+    console.clear();
+    // timing
+
+    console.time('fetching data');
+    fetch('https://api.github.com/users/wesbos')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd('fetching data');
+        console.log(data);
+      });
+
+    // table
+
+    console.table(dogs);
+
+
+  </script>
+</body>
+</html>
