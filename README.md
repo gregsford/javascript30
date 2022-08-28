@@ -87,7 +87,9 @@ In this video Wes suggests at the beginning for the viewer to try and do the cod
 
 <hr>
 
-Day 11: CUSTOM VIDEO PLAYER (completed: N/A)
+Day 11: CUSTOM VIDEO PLAYER (completed: 8/28/2022)
+
+This tutorial will definitely be something that will come in handy for me soon.  I run a YouTube channel and currently will be expanding a 2nd channel.  I have a website up for one them already (www.drummondreacts.com) and I will make another one for the new channel once I get a better branding idea for it (it's going to be coding based for anyone interested in checking it out here: https://www.youtube.com/channel/UC7A9BktiAOLx4sfosj8zJfQ). I ran into some issues while trying to code this. The big one for me was the scrub.  The progress bar wouldn't release whenever I was clicking my mouse, even after applying the code to prevent that from happening. I've had several issues like that on other videos in this course, but I usually I will check the finished code to make sure that it's running properly, copy the code into the file I'm working on, and then line the codes up to see where the mistake is. Usually it's a syntax error on my part that I don't notice. Sometimes it's a piece of code that I skipped over accidentally. But I did want to take up the challenge at the end of the video to make it full screen.  I got part of the way on my own but was having trouble making it work.  I looked online to get some ideas on how to do it and eventually managed to get it to work.  However I am unable to show it here because Github will not allow me to upload the video file from this project as it's rather large.  I'll probably upload it someplace else and link it here.  And on that note I am going to take a break for a little bit, let my brain refresh while I go and watch Big Buck Bunny (the video from this project).
 
 <hr>
 
