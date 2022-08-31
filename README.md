@@ -20,7 +20,7 @@ I still haven't been able to try to figure out why it doesn't make a sound on th
 
 *UPDATE* 
 
-The issue with the sounds not playing has been discovered. The file names for the sounds were different from the sound names listed in the starter files. Once I went through them and updated them, everything worked perfect. This was a fun one to do.  I'm a big music fan and have been playing drums since I was 8 years old (obviously I'm not great at them otherwise I'd be a rockstar...maybe). Also I am currently working on a project in which using keydown in an event listener is going to be very useful so the code here will definitely be a good referral guide once I get to the JavaScript stage of that project (if I've completed the project, you can view it right here => (add link to project)). 
+<em>The issue with the sounds not playing has been discovered. The file names for the sounds were different from the sound names listed in the starter files. Once I went through them and updated them, everything worked perfect. This was a fun one to do.  I'm a big music fan and have been playing drums since I was 8 years old (obviously I'm not great at them otherwise I'd be a rockstar...maybe). Also I am currently working on a project in which using keydown in an event listener is going to be very useful so the code here will definitely be a good referral guide once I get to the JavaScript stage of that project (if I've completed the project, you can view it right here => (add link to project)).</em>
 
 <hr>
 
