@@ -93,7 +93,9 @@ This tutorial will definitely be something that will come in handy for me soon. 
 
 <hr>
 
-Day 12: KEY SEQUENCE DETECTION (completed: N/A)
+Day 12: KEY SEQUENCE DETECTION (completed: 08/30/2022)
+
+UUDDLRLRAB SELECT START!  This one was awesome to learn.  I always used to love getting a new cd from a band and going to the last track of the album and trying to find that secret song.  It made owning cds pretty awesome.  The scratches and ruining the entire disc was a whole other issue.  Anyway, I really got a kick out of this lesson.  I was unaware that websites had cool hidden gems like this.  The cornify thing was cool too. I gotta look them up and see what others are out there and try them out. I was a bit confused by the math to get the correct number of arrays though.  The -secretCode.length - 1 part threw me off a bit.  I'm still having some trouble dealing with the math aspect of JavaScript when it comes to arrays and .lengths and things like that.  Usually once I understand it it tends to make more sense, but when first shown in some sort of instructional way or just listed in code without really diving into it, it does come across as very confusing.  And I had a syntax error too which did not help.  I was only getting 5 arrays, not 6. I checked the code and it was typed correctly as shown.  However I had listed my secretCode as "wesbo", forgot to add the second "s".  I also added in a code to change the background color when the secret code is typed in to see if I could change that as well.  It worked! :)  
 
 <hr>
 
