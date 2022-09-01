@@ -99,7 +99,9 @@ Day 12: KEY SEQUENCE DETECTION (completed: 08/30/2022)
 
 <hr>
 
-Day 13: SLIDE IN ON SCROLL (completed: N/A)
+Day 13: SLIDE IN ON SCROLL (completed: 8/31/2022)
+
+First things first... The math on this one really messed with my head. I had a hard time trying to figure out what he was trying to do with all the operations going on.  I will definitely need to revisit this lesson and add more notes in the code to better grasp the fundamentals here. But I also need to revisit this one because I am going to be working on a gaming website soon where they want the slide in on scroll features throughout the page. This lesson will be a great reference for that for sure. I knew using the querySelectorAll was going to be used to grab all images for this.  That's already what I'm thinking I will be doing on the website as well. I also want to look further into the debounce function and get a better understanding of how that code is broken down and understand each part too. I understand that was not the lesson for this video, but I still think it would be good to look into that. But I think this lesson was good, the slide in feature is very common and it's good to understand how to properly use it without it looking horrible coming in too soon or too late.  
 
 <hr>
 
