@@ -105,7 +105,8 @@ First things first... The math on this one really messed with my head. I had a h
 
 <hr>
 
-Day 14: JAVASCRIPT REFERENCES VS COPYING (completed: N/A)
+Day 14: JAVASCRIPT REFERENCES VS COPYING (completed: 9/1/2022)
+So outside of tutorials I have no really worked with Objects and Arrays. So learning how to copy them was interesting. Like all of the videos that I have seen I am sure that at some point I will be returning back to this video for reference. I am very interested in working with Objects and Arrays, but all of the projects that I have done on my own so far haven't really required them. Definitely need to do some research and find some ideas for projects to work on where I can use them and get practice. I haven't really seen much use of them outside of the console at this point.
 
 <hr>
 
