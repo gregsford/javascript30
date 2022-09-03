@@ -111,7 +111,9 @@ So outside of tutorials I have no really worked with Objects and Arrays. So lear
 
 <hr>
 
-Day 15: LOCALSTROAGE (completed: N/A)
+Day 15: LOCALSTROAGE (completed: 9/3/2022)
+
+This one was a lot to take in. Initially I started watching this on a Friday night after a long week at work. After 10 minutes I had to stop.  My brain was fried and nothing was making sense. The next day after some rest and sleep, I was able to get through the video. But again it was a lot. I understood some things as they were being explained, but I will definitely have to go back to this video for sure. This was the first time I explored with LocalStorage, so that's something I need to learn more about.  I understood the end result of it being used, but had a hard time trying to figure out all the code getting there. Again, it'll be something that I have to go back through and learn. But yeah.... a lot to take in.
 
 <hr>
 
