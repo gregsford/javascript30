@@ -117,7 +117,9 @@ This one was a lot to take in. Initially I started watching this on a Friday nig
 
 <hr>
 
-Day 16: MOUSE MOVE SHADOW (completed: N/A)
+Day 16: MOUSE MOVE SHADOW (completed: 9/4/2022)
+
+WHOA! This one was cool. Definitely more of a fun design than something that would be used for a regular style website.  I like all the cool different visual things that javascript does so obviously this was one that I enjoyed. But again the math in javascript I still need to figure out (walk / xWalk * yWalk / 2 / walk + RE + SPECT + WALK = What did you say?)  It was a bit confusing so I took notes of Wes' explanation as a reference.  Something like this would be cool to add to my portfolio when I redo it again at some point soon. 
 
 <hr>
 
