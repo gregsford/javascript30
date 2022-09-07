@@ -123,13 +123,15 @@ WHOA! This one was cool. Definitely more of a fun design than something that wou
 
 <hr>
 
-Day 17: SORT WITHOUT ARTICLES (completed: N/A)
+Day 17: SORT WITHOUT ARTICLES (completed: 9/05/2022)
 
 So this video covers something very common when it comes to using articles of speech... How to get around them. I found this lesson to be very useful and another resourceful video for a project I want to work on. The RegExp is still something I am not familiar with, so I need to spend some time looking into that as well. One thing I did notice, off topic from the lesson outline, was the bands listed as well as the metal intro music. The fact that Wes is a metalhead as well is pretty cool. So if I was going to make a sort list for bands that I wanted to list, this lesson could be very helpful as well in order to do that. I still need to learn more about how join('') works. I've seen that in a few lessons so far but haven't really picked up on it yet. 
 
 <hr>
 
-Day 18: ADDING UP TIMES WITH REDUCE (completed: N/A)
+Day 18: ADDING UP TIMES WITH REDUCE (completed: 9/6/2022)
+
+I will start by saying that I did not know that there were 3600 seconds in an hour. If it's something that I learned in the past, I completely forgot it. With that being said, my first drawback was trying to figure out where he was getting that number from to use in the code. The thing that I'm coming across in most of these lessons is the practically of use. Watching these videos I can see the normal every day use for these differents types of code. Coding along with this video I was thinking of different ways that I can use this as a reference for a project that I want to start working on. I still need to read up more on dataset.time and timeCode and such. Once I finish the 30 days I plan to come back to each of these videos and really go over them one at a time and get myself familiar with a lot of the code that I don't understand fully or at all. This one I will definitely be touching base on.
 
 <hr>
 
