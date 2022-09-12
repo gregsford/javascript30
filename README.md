@@ -135,7 +135,9 @@ I will start by saying that I did not know that there were 3600 seconds in an ho
 
 <hr>
 
-Day 19: WEBCAM FUN (completed: N/A)
+Day 19: WEBCAM FUN (completed: 9/11/2022)
+
+So it's been a couple of days since I got to work on the next JS30 video. I had a couple of really long work days, had a stomach bug, and spent 2 days getting set up to start the Odin Project and running into issues there, this ended up taking a backseat for a few days. But nevertheless I got through it. And what a fun once this was. I rarely touch the webcam and do anything with it, but learning how to mess with the pixels and taking snapshots was pretty cool. However sitting in a dark room with a little light, I really couldn't capture anything but I was able to link it up and get it started. This was also the first project I believe where a local server was used. I have done some projects with node and monogoDB, so I'm familiar with starting up a server on a localhost. I had more trouble getting the audio file to play because of the name (the same issue I had with the first lesson) but I learned my lesson (pun intended) from that one and was able to get it hooked up quickly. Overall I found this one to be fun. Especially learning how to green screen.  I'll have to get a better quality camera and take some funny pictures with some crazy ass backgrounds.  
 
 <hr>
 
