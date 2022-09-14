@@ -143,6 +143,8 @@ So it's been a couple of days since I got to work on the next JS30 video. I had 
 
 Day 20: SPEECH DETECTION (completed: N/A)
 
+Just a few minutes into the course, I've come across an issue with getting a localhost to pop up and work with. Normally I would spend more time trying to remedy the issue, but I had a late night last night from work and then woke up early this morning to start my new 2nd job. If only these were coding jobs, then I'd be happy. I will revisit this lesson and figure out the issue and provide an update. In the meantime I am going to work on the Odin Project and maybe advance to the next JS30 video if I'm still having server issues with this one.
+
 <hr>
 
 Day 21: GEOLOCATION (completed: N/A)
