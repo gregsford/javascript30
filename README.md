@@ -149,9 +149,15 @@ Just a few minutes into the course, I've come across an issue with getting a loc
 
 Day 21: GEOLOCATION (completed: N/A)
 
+I had the same issue with server as well as the Xcode that Wes used. I don't use a Mac yet, so I was unable to follow through with this lesson. I will come back to it after I do some research and see what I can do for this one using Windows.  Have to look up how it's done. Basically what Developers do.  I'll update this soon.
+
 <hr>
 
-Day 22: FOLLOW ALONG LINK HIGHLIGHTER (completed: N/A)
+Day 22: FOLLOW ALONG LINK HIGHLIGHTER (completed: 9/14/2022)
+
+This one was cool.  I have seen this feature before, so watching how it is done was pretty cool.  I'm starting to get a little more familiar with CreateElement and adding classlists.  A project that I'm working on I will be using those to add and change some things, so the more I see it getting used the more I hopefully will get comfortable using it. getBoundingClientRect. I have seen that before but was unfamiliar with what it did.  I still need to look more into it but I think I've got a good idea of it's use. 
+
+When Wes first said that I thought to myself getBoundingClientWrecked. 
 
 <hr>
 
