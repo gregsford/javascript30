@@ -155,9 +155,9 @@ I had the same issue with server as well as the Xcode that Wes used. I don't use
 
 Day 22: FOLLOW ALONG LINK HIGHLIGHTER (completed: 9/14/2022)
 
-This one was cool.  I have seen this feature before, so watching how it is done was pretty cool.  I'm starting to get a little more familiar with CreateElement and adding classlists.  A project that I'm working on I will be using those to add and change some things, so the more I see it getting used the more I hopefully will get comfortable using it. getBoundingClientRect. I have seen that before but was unfamiliar with what it did.  I still need to look more into it but I think I've got a good idea of it's use. 
+This one was cool.  I have seen this feature before, so watching how it is done was pretty cool.  I'm starting to get a little more familiar with CreateElement and adding classlists.  A project that I'm working on I will be using those to add and change some things, so the more I see it getting used the more I hopefully will get comfortable using it. I have seen getBoundingClientRect before but was unfamiliar with what it did.  I still need to look more into it but I think I've got a good idea of it's use. 
 
-When Wes first said that I thought to myself getBoundingClientWrecked. 
+getBoundingClientRect. When Wes first said that I thought to myself getBoundingClientWrecked. 
 
 <hr>
 
