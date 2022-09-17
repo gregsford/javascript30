@@ -161,11 +161,15 @@ getBoundingClientRect. When Wes first said that I thought to myself getBoundingC
 
 <hr>
 
-Day 23: SPEECH SYNTHESIS (completed: N/A)
+Day 23: SPEECH SYNTHESIS (completed: 9/15/2022)
+
+I'm updating this one a day late. As soon as I finished this lesson I was messing with the textarea and putting in all the curse words because naturally that's what you do. Obviously! It was very interesting to see how the translation voices can be accessed like that. I've been on several sites like this over the years but learning how to make one on my own was pretty cool. Definitely has given me some cool ideas on what projects I can make with it.
 
 <hr>
 
-Day 24: STICKY NAV (completed: N/A)
+Day 24: STICKY NAV (completed: 9/16/22)
+
+I'm definitely going to be referencing this lesson. I like the idea of having a logo pop out onto the nav when scrolling down. Most navbars that I have written up until this point have been either been in a fixed position on the top or at the top of the page and doesn't scroll with you, or disappears via hamburger menu on smaller screens. But I think that this is a cool slick design to use and to mess around with to try different things out with. 
 
 <hr>
 
