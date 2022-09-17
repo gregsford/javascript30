@@ -173,7 +173,9 @@ I'm definitely going to be referencing this lesson. I like the idea of having a 
 
 <hr>
 
-Day 25: EVENT CAPTURE, PROPOGATION, BUBBLING AND ONCES (completed: N/A)
+Day 25: EVENT CAPTURE, PROPOGATION, BUBBLING AND ONCES (completed: 9/17/2022)
+
+A more informative lesson compared to seeing how to create cool looking stuff. Learning more of the fundamentals behind addEventListener was cool. I'm definitely trying to learn more and understand how different pieces of code work in javascript. Seeing how these different things worked was good to learn. I'm sure I'll review this lesson more to really understand and remember how these things worth. I'm sure too I will probably use these in some of the code I write so again, this will be a good refresher for that.
 
 <hr>
 
