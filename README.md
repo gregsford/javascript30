@@ -179,7 +179,9 @@ A more informative lesson compared to seeing how to create cool looking stuff. L
 
 <hr>
 
-Day 26: STRIPE FOLLOW ALONG NAV (completed: N/A)
+Day 26: STRIPE FOLLOW ALONG NAV (completed: 9/18/2022)
+
+I know that I have to sound like a broken record by now, but I keep having to say that I really enjoy seeing cool things done that I see on a regular basis on other websites. This was really cool to watch and again gave me tons of ideas while learning. Another reference video for me to look back at. There was definitely quite a bit of code for this one, but one of my thoughts while watching this video is how I'm going to be going back to a lot of these and trying to learn and understand more concepts of these codes. And of course my buddy made another appearance in this lesson.... getBoundingClientWRECKED!!!!
 
 <hr>
 
