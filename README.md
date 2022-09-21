@@ -185,7 +185,9 @@ I know that I have to sound like a broken record by now, but I keep having to sa
 
 <hr>
 
-Day 27: CLICK AND DRAG (completed: N/A)
+Day 27: CLICK AND DRAG (completed: 9/20/2022)
+
+This was very cool. I have seen similar features like this on other websites. Learning the mouse events, the math, the offset, the when to place the (e) in a function, all things that I still need to practice and learn more. This was a bit complicated in my opinion because of those reasons I just stated. There was definitely a lot going on with this one even though there really wasn't much code written overall. It will take time to fully grasp it but I do plan to revisit this video and learn more of the code. Plus I want to take a look at the CSS and see how that was set up. Seeing the transitions during the scroll of the size and everything was cool. I did add some more numbers to the html file to see as whether or not it would continue or just stop at 25. Take a look and see if it worked. I made it work all the way up to a number most famously quoted from Bill S. Preston, Esq. and Ted Theodore Logan. 
 
 <hr>
 
