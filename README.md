@@ -191,7 +191,9 @@ This was very cool. I have seen similar features like this on other websites. Le
 
 <hr>
 
-Day 28: VIDEO SPEED CONTROLLER (completed: N/A)
+Day 28: VIDEO SPEED CONTROLLER (completed: 9/21/2022)
+
+It was nice to see Big Buck Bunny return. Again, the math in the code I need to learn more. The offsets and percents and such kept throwing me off. I will have to practice more of that and learn better how to utilize equations to make things work properly. One issue I kept having was the playback at the end. All the code during the code along worked except for the final result. I believe it was a grammactical error though as I copied and pasted the function code from the index-FINISHED file that Wes has available and combed through one line at a time parallel to my code. The only error I saw was that I had capitalized the letter B in playback. That seemed to do the trick as it began working after that. Simple syntax that messes up your code, a very common thing. Learning to do something like this is good though if you are working with video on a website like Udemy or JavaScript30 where a lesson is being taught and people want to speed it up. I'm more of a 1x person, neither too fast nor slow. Now I want to go and rewatch the Big Buck Bunny video but I have more coding to work on tonight.
 
 <hr>
 
