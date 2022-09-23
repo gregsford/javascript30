@@ -199,6 +199,9 @@ It was nice to see Big Buck Bunny return. Again, the math in the code I need to 
 
 Day 29: COUNTDOWN TIMER (completed: N/A)
 
+<a href="https://www.youtube.com/channel/UC7i4bH0u8xv4b47SN3_bHwQ">Drummond Reacts</a>
+<a href="https://www.youtube.com/channel/UC7A9BktiAOLx4sfosj8zJfQ">My other Youtube Channel for Coding</a>
+
 <hr>
 
 Day 30: WHACK A MOLE (completed: N/A)
