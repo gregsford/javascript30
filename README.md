@@ -2,10 +2,7 @@
 
 This is my work on the JavaScript30 course by Wes Bos.
 My method of learning and working on these courses is to code along with Wes, but pasuing the videos and trying to figure out and write the JS code myself to see whether or not I am able to get it to work properly before watching the tutorial.
-I will journal how I felt and dealt with each course, any struggles I might have had, anything I felt comfortable or knew, or anything that is brand new to me.
-
-<br>
-My goal is to complete this course in consecutive 30 days.  
+I will journal how I felt and dealt with each course, any struggles I might have had, anything I felt comfortable or knew, or anything that is brand new to me. My goal is to complete this course in consecutive 30 days.  
 However if I feel I need more time to focus on the concepts of what is being coded, then I'll take more time as needed.
 It is far more important to understand the code itself than to hastily run through projects while learning.
 
