@@ -9,7 +9,7 @@ My goal is to complete this course in consecutive 30 days.
 However if I feel I need more time to focus on the concepts of what is being coded, then I'll take more time as needed.
 It is far more important to understand the code itself than to hastily run through projects while learning.
 
-<br>
+
 I started this one 8/17/2022 and finished on 9/25/2022. Although it took longer than 30 consecutive days due to several circumstances, I really learned a lot from watching these lessons. Some things I saw and immediately knew that I was going to incorporate this type of code into my projects.  Some things I'm not sure when/if I'll need to use it but if anything it's good to have this course and files for reference. I'm still finding javascript very difficult, but I do seem to understand more of how things are set up.  Storing variables, creating functions, adding events to trigger the functions and refering to the variables within them. But there's so many methods and types of code in javascript to possibly know without doing some sort of research as well as repetition. I definitely feel that this course has helped me in a few ways to be better at JS as well as becoming a better developer.
 
 <hr>
