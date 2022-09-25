@@ -141,9 +141,13 @@ So it's been a couple of days since I got to work on the next JS30 video. I had 
 
 <hr>
 
-Day 20: SPEECH DETECTION (completed: N/A)
+Day 20: SPEECH DETECTION (completed: 9/25/2022)
 
 Just a few minutes into the course, I've come across an issue with getting a localhost to pop up and work with. Normally I would spend more time trying to remedy the issue, but I had a late night last night from work and then woke up early this morning to start my new 2nd job. If only these were coding jobs, then I'd be happy. I will revisit this lesson and figure out the issue and provide an update. In the meantime I am going to work on the Odin Project and maybe advance to the next JS30 video if I'm still having server issues with this one.
+
+*UPDATE* 
+
+<em>After some initial issues with the server and then some typos, I managed to get the server up and running on a localhost. This lesson was pretty cool, and definitely requires a better microphone in order to pick the speech. The code was a bit confusing, all the nesting in the console was a bit much. But the explanation while working through the code did make it easier to understand. I will have to come back to this one and comb through the code more, especially if I get a better microphone. My current microphone is a part of my webcam, and that fell out of it's spot inside the case while working on this project. Going to have to unscrew the case and realign the lens and microphone inside it.</em>
 
 <hr>
 
@@ -206,5 +210,9 @@ Overall this is definitely something I can use personally in my current situatio
 
 <hr>
 
-Day 30: WHACK A MOLE (completed: N/A)
+Day 30: WHACK A MOLE (completed: 9/25/2022)
+
+This was fun putting together. Definitely going to be something that I set up a page for to play here and there for fun. Initially I was having problems understanding the code but I was dealing with a handful of unavoidable distractions when I first began working on this and therefore delayed me a bit at first. I knew the css was going to be positioned and have some z-index and transitions to them, thus knew that some adding and removing classLists would be happening. I also was aware that being that a score was involved that Wes would be using some let variables to make changes per game.  This is definitely cool and have some fun ideas that I can work with around this one. Very cool.
+
+Normally I would be done with this course and move on to something new, but I still have 2 more videos that I need to finish first that I ran into server issues with. So I need to go check those out.  My final review of the course is at the top of this readme. Feel free to check out my opinion and make sure to reach out with any thoughts that you might have. 
 
